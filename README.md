@@ -1,2 +1,2 @@
-# GWC
+
 # pols.github.io
